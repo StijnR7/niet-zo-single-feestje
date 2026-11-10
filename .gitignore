@@ -1,0 +1,15 @@
+# Brondocumenten van school (niet publiceren: bevat namen van klasgenoten)
+*.zip
+docs_src/
+*.xlsx
+~$*
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Arduino build output
+build/
+*.hex
+*.elf
